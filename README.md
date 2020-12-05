@@ -1,6 +1,6 @@
 Unit 2 | Assignment - The VBA of Wall Street
 Background
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
+In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
 Files
 •	Test Data - Use this while developing your scripts.
 •	Stock Data - Run your scripts on this data to generate the final homework report.
